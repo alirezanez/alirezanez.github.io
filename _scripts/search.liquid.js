@@ -79,7 +79,7 @@ ninja.data = [
     {%- endfor -%}
   {%- endif -%}
   {%- for collection in site.collections -%}
-    {%- if collection.label != 'posts' -%}
+    {%- if collection.label != 'posts' and collection.label != 'books' and collection.label != 'projects' and collection.label != 'news' -%}
       {%- for item in collection.docs -%}
         {
           {%- if item.inline -%}
@@ -309,7 +309,7 @@ ninja.data = [
       },
     {%- endfor -%}
   {%- endif -%}
-  {%- if site.enable_darkmode -%}
+  {%- if false -%}
     {
       id: 'light-theme',
       title: 'Change theme to light',

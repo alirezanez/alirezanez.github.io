@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
@@ -27,10 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD candidate in the [Department of Energy and Process Engineering](https://www.ntnu.edu/ept) at the [Norwegian University of Science and Technology (NTNU)](https://www.ntnu.edu/), Trondheim, Norway, within the [Sustainable Energy Systems](https://www.ntnu.edu/ept/sustainable-energy-systems) group. My research focuses on [data-driven control](https://en.wikipedia.org/wiki/Data-driven_control_system) and [optimal control](https://en.wikipedia.org/wiki/Optimal_control) methods, with emphasis on model predictive control (MPC) and Learning-based controllers for building energy optimization and sustainable energy systems.
+I am a PhD candidate in the [Department of Energy and Process Engineering (EPT)](https://www.ntnu.edu/ept) at the [Norwegian University of Science and Technology (NTNU)](https://www.ntnu.edu/), Trondheim, Norway, affiliated with the [Sustainable Energy Systems](https://www.ntnu.edu/ept/sustainable-energy-systems) group. My research concentrates on [data-driven control](https://en.wikipedia.org/wiki/Data-driven_control_system) and [optimal control](https://en.wikipedia.org/wiki/Optimal_control) methodologies, particularly [model predictive control (MPC)](https://en.wikipedia.org/wiki/Model_predictive_control), aimed at optimizing building energy use and advancing sustainable energy systems.
 
-Previously, I was a Research Assistant at the Nonlinear Control Lab, [Isfahan University of Technology (IUT)](https://iut.ac.ir), where I worked on robust control of nonlinear real-time systems, including Piezoelectric Actuators, Inverted Pendulum, and Twin Rotor MIMO systems. I also collaborated remotely with [Dr. Amirmehdi Yazdani](https://scholar.google.com/citations?user=SWgn4u4AAAAJ&hl=en) at Murdoch University, Australia, on fault detection and fault-tolerant control of electrical machines and power systems.
+Previously, I served as a Research Assistant at the Nonlinear Control Lab at [Isfahan University of Technology](https://iut.ac.ir) (IUT), focusing on robust control of nonlinear real-time systems, such as Piezoelectric Actuators, Inverted Pendulum, and Twin Rotor MIMO systems. I also collaborated remotely with [Dr. Amirmehdi Yazdani](https://staffportal.murdoch.edu.au/modules/personnelInfo/viewStaffProfile.php?cn=Amirmehdi+Yazdani) at Murdoch University in Australia on a unified data-driven framework for fault detection and fault-tolerant control in electrical devices and power systems.
 
-My research interests include [control systems](https://en.wikipedia.org/wiki/Control_theory), [reinforcement learning](https://en.wikipedia.org/wiki/Reinforcement_learning), and [model predictive control (MPC)](https://en.wikipedia.org/wiki/Model_predictive_control), with applications in autonomous vehicles, multi-agent systems, and sustainable energy.
+My research portfolio primarily focuses on developing [data-driven control strategies](https://en.wikipedia.org/wiki/Data-driven_control_system) for dynamical systems, [HVAC systems](https://en.wikipedia.org/wiki/Heating,_ventilation,_and_air_conditioning), and [building energy management systems (BEMS)](https://en.wikipedia.org/wiki/Building_automation) through the integration of suitable [neural networks (NNs)](https://en.wikipedia.org/wiki/Neural_network_(machine_learning)) with advanced control techniques, including robust, adaptive, and optimal control.
 
-I received my M.Sc. in Electrical Engineering (Control) from Isfahan University of Technology in 2022, where I was **ranked 3rd** among all M.Sc. control engineering students, and my B.Sc. in Electrical Engineering (Power) from Shahrekord University in 2019, where I was **ranked 1st** in my class.
+I obtained my M.Sc. in Electrical Engineering (Control) from [Isfahan University of Technology](https://iut.ac.ir) in 2022, achieving **third** position among all M.Sc. control engineering students, and my B.Sc. in Electrical Engineering (Power) from [Shahrekord University](https://sku.ac.ir/en) in 2019, where I attained **first** rank in my class.

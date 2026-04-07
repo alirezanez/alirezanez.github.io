@@ -328,6 +328,7 @@ ninja.data = [
         setThemeSetting("dark");
       },
     },
+    {%- comment -%}
     {
       id: 'system-theme',
       title: 'Use system default theme',
@@ -337,5 +338,6 @@ ninja.data = [
         setThemeSetting("system");
       },
     },
+    {%- endcomment -%}
   {%- endif -%}
 ];

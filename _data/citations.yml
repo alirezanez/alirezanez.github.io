@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-13'
+  last_updated: '2026-06-01'
 papers:
   gWa26CoAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -12,6 +12,10 @@ papers:
   gWa26CoAAAAJ:UeHWp8X0CEIC:
     citations: 0
     title: Sequential Type-2 Fuzzy Wavelet for Robust Online Control Applications
+    year: '2026'
+  gWa26CoAAAAJ:Y0pCki6q_DkC:
+    citations: 0
+    title: 'Robust Control of Affine Nonlinear Systems Using an Energy-Efficient Gray-Box Framework: A Practical Validation'
     year: '2026'
   gWa26CoAAAAJ:qjMakFHDy7sC:
     citations: 1

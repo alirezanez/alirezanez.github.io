@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-01'
+  last_updated: '2026-06-26'
 papers:
   gWa26CoAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -22,7 +22,7 @@ papers:
     title: Type-2 Fuzzy Wavelet Control for a Quadruple-Tank System Based on Disturbance Rejection
     year: '2025'
   gWa26CoAAAAJ:u-x6o8ySG0sC:
-    citations: 4
+    citations: 5
     title: Disturbance Rejection in Quadruple-Tank System by Proposing New Method in Reinforcement Learning
     year: '2024'
   gWa26CoAAAAJ:u5HHmVD_uO8C:

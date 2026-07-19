@@ -164,6 +164,12 @@ collections:
   projects:
     output: true
     search_exclude: true
+  awards:
+    output: true
+    search_exclude: true
+  experiences:
+    output: true
+    search_exclude: true
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -247,6 +253,16 @@ defaults:
       type: "books"
     values:
       search_exclude: true
+  - scope:
+      path: ""
+      type: "awards"
+    values:
+      search_exclude: true
+  - scope:
+      path: ""
+      type: "experiences"
+    values:
+      search_exclude: true   
 
 sass:
   style: compressed

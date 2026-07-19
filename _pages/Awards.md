@@ -2,46 +2,33 @@
 layout: page
 permalink: /Awards/
 title: Awards
-description: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
+description: Academic excellence, research recognition, and professional achievements
 nav: true
 nav_order: 4
 ---
 
-{% if site.data.repositories.github_users %}
+My awards and recognition across academic, research, and professional domains.
 
-## GitHub users
-
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for user in site.data.repositories.github_users %}
-    {% include repository/repo_user.liquid username=user %}
-  {% endfor %}
-</div>
-
----
-
-{% if site.repo_trophies.enabled %}
-{% for user in site.data.repositories.github_users %}
-{% if site.data.repositories.github_users.size > 1 %}
-
-  <h4>{{ user }}</h4>
-  {% endif %}
-  <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% include repository/repo_trophies.liquid username=user %}
+<div class="container-fluid">
+  <div class="row">
+    {% assign sorted_awards = site.awards | sort: "importance" %}
+    {% for award in sorted_awards %}
+      <div class="col-sm-6 col-md-4 col-lg-3 mb-4">
+        <div class="card h-100">
+          {% if award.img %}
+            <img class="card-img-top" src="{{ award.img | prepend: site.baseurl }}" alt="{{ award.title }}">
+          {% endif %}
+          <div class="card-body">
+            <h5 class="card-title">
+              <a href="{{ award.url }}">{{ award.title }}</a>
+            </h5>
+            <p class="card-text">{{ award.description }}</p>
+          </div>
+          <div class="card-footer bg-light">
+            <a href="{{ award.url }}" class="btn btn-sm btn-primary" role="button">View Details</a>
+          </div>
+        </div>
+      </div>
+    {% endfor %}
   </div>
-
----
-
-{% endfor %}
-{% endif %}
-{% endif %}
-
-{% if site.data.repositories.github_repos %}
-
-## GitHub Repositories
-
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for repo in site.data.repositories.github_repos %}
-    {% include repository/repo.liquid repository=repo %}
-  {% endfor %}
 </div>
-{% endif %}

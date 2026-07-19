@@ -2,10 +2,11 @@
 layout: page
 title: Skills
 permalink: /Skills/
-description: A growing collection of your cool projects.
+description: My certifications, research projects, and technical skills.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+
+display_categories: [Certificates, Projects, Skills]
 horizontal: false
 ---
 

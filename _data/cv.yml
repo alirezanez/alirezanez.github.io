@@ -21,6 +21,8 @@ cv:
     postalCode: ""
     countryCode: NO
 
+  cv_pdf: /assets/pdf/CV_Alireza_Nezamzadeh.pdf
+
   sections:
     Education:
       - institution: Norwegian University of Science and Technology (NTNU)

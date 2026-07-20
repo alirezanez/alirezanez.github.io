@@ -73,6 +73,8 @@ cv:
         summary: Fluent
       - name: Norwegian
         summary: Intermediate
+      - name: Old Persian
+        summary: Native speaker
 
     Interests:
       - name: Control Systems and Automation
@@ -101,7 +103,7 @@ cv:
         affiliation: Senior Lecturer, Murdoch University, Australia
         profile: "[Google Scholar](https://scholar.google.com/citations?user=SWgn4u4AAAAJ&hl=en)"
 
-      - name: Dr. Hamed Ahabibi
+      - name: Dr. Hamed Habibi
         icon: fa-solid fa-user
         role: Research Collaborator
         affiliation: Research Fellow, School of Engineering, RMIT University, Australia

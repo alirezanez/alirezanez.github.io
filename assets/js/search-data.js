@@ -49,14 +49,14 @@ ninja.data = [{
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/Other%20Activities/";
+                window.location.href = "/Other_Activities/";
               },
-            },{id: "dropdown-landscapes",
-              title: "Landscapes",
+            },{id: "dropdown-photography",
+              title: "Photography",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/Landscapes/";
+                window.location.href = "/Photography/";
               },
             },{id: "awards-ranked-3rd-m-sc-student-in-control-engineering",
           title: 'Ranked 3rd M.Sc. Student in Control Engineering',

@@ -15,168 +15,76 @@ cv:
       username: 0009-0002-4059-6913
 
   address:
-    street: Tiller
+    street: Kolbjorn Hejes vei
     city: Trondheim
-    region: Trøndelag
+    region: Troendelag
     postalCode: ""
     countryCode: NO
 
   sections:
     Education:
-      - institution: Isfahan University of Technology
+      - institution: Norwegian University of Science and Technology (NTNU)
+        location: Trondheim, Norway
+        url: https://www.ntnu.edu/
+        area: Control Engineering and Sustainable Energy Systems
+        studyType: Doctor of Philosophy
+        start_date: 2026-01
+        end_date: ""
+        logo: /assets/img/universities/ntnu_logo.svg
+        logo_size: "100px"
+        highlights:
+          - Research on data-driven and optimal control methodologies for building energy systems
+          - Focus on sustainable energy management and occupant comfort optimization
+
+      - institution: Isfahan University of Technology (IUT)
         location: Isfahan, Iran
         url: https://en.iut.ac.ir/
         area: Electrical Engineering - Control Engineering
         studyType: Master of Science
-        start_date: 2022-09
-        end_date: 2025-01
-        score: "Ranked 3rd"
+        start_date: 2019-09
+        end_date: 2022-02
+        logo: /assets/img/universities/iut_logo.svg
+        logo_size: "50px"
         highlights:
-          - "Master's thesis on advanced control strategies for nonlinear systems"
-          - "Specialized in control systems design and experimental validation"
+          - Thesis on advanced control strategies for nonlinear systems
+          - Specialized in control systems design and experimental validation
+          - "Supervisor: Assoc.Prof. Marzieh Kamali"
 
-      - institution: Shahrekord University
+      - institution: Shahrekord University (SKU)
         location: Shahrekord, Iran
         url: https://www.sku.ac.ir/
         area: Electrical Power Engineering
         studyType: Bachelor of Science
         start_date: 2015-09
-        end_date: 2019-01
-        score: "Ranked 1st"
+        end_date: 2019-07
+        logo: /assets/img/universities/sku_logo.png
+        logo_size: "100px"
         highlights:
-          - "Highest academic standing in program"
-          - "Direct admission to M.Sc. program based on exceptional performance"
-
-    Experience:
-      - company: Norwegian University of Science and Technology (NTNU)
-        position: Research Assistant
-        location: Trondheim, Norway
-        start_date: 2026-01
-        end_date: 2026-07
-        summary: Research collaboration on sustainable energy systems and building energy management control strategies.
-        highlights:
-          - "Sustainable energy research and control strategy design"
-          - "Building energy optimization and occupant comfort management"
-
-      - company: Isfahan University of Technology
-        position: Research Assistant - Nonlinear Control Lab
-        location: Isfahan, Iran
-        start_date: 2023-11
-        end_date: 2025-12
-        summary: Experimental research on advanced control systems including piezoelectric actuators, inverted pendulum, and MIMO systems.
-        highlights:
-          - "Piezoelectric Actuator Control for high-precision positioning"
-          - "Digital Inverted Pendulum System validation"
-          - "Twin Rotor MIMO System multivariable control"
-
-      - company: Esfahan Regional Electric Company (EREC)
-        position: Assistant Manager
-        location: Isfahan, Iran
-        start_date: 2022-08
-        end_date: 2023-10
-        summary: Alternative civilian service in power transmission safety and HSE management.
-        highlights:
-          - "Power transmission network incident analysis"
-          - "Best Paper Award at 30th Electrical Safety Conference"
-
-      - company: Isfahan University of Technology
-        position: Teaching Assistant
-        location: Isfahan, Iran
-        start_date: 2020-01
-        end_date: 2021-01
-        summary: Teaching assistant for control systems and advanced courses.
-        highlights:
-          - "Linear Control Systems"
-          - "Adaptive Control Systems"
-          - "Artificial Neural Networks"
-
-    Awards:
-      - title: Ranked 3rd M.Sc. Student in Control Engineering
-        authors:
-          - Isfahan University of Technology
-        date: 2025-01-01
-        awarder: Isfahan University of Technology
-        summary: Academic excellence in Control Engineering program
-
-      - title: Ranked 1st B.Sc. Student in Electrical Power Engineering
-        authors:
-          - Shahrekord University
-        date: 2019-01-01
-        awarder: Shahrekord University
-        summary: Highest academic standing in Electrical Power Engineering program
-
-      - title: Best Paper Award - 30th Electrical Safety Conference
-        authors:
-          - Isfahan Regional Electricity Company
-        date: 2023-01-01
-        awarder: Isfahan Regional Electricity Company
-        summary: Research on human factors in electrical safety and biorhythm analysis
-
-      - title: Direct Admission to M.Sc. Program
-        authors:
-          - Isfahan University of Technology
-        date: 2019-01-01
-        awarder: Isfahan University of Technology
-        summary: Direct admission based on exceptional undergraduate academic performance
-
-    Skills:
-      - name: Control Systems
-        level: Advanced
-        keywords: "MATLAB, Python, Control Design, Nonlinear Systems, Adaptive Control, MPC"
-
-      - name: Scientific Computing
-        level: Advanced
-        keywords: "Python, MATLAB, Spyder, Jupyter, NumPy, Matplotlib, Data Analysis"
-
-      - name: Experimental Validation
-        level: Advanced
-        keywords: "System Testing, Hardware-in-the-Loop, Real-time Control, PLC Programming"
-
-      - name: Research Methodology
-        level: Advanced
-        keywords: "Literature Review, Technical Writing, Peer Review, Publications"
+          - Thesis on design and construction of single-phase inverter for photovoltaic system
+          - Highest academic standing in program
+          - Direct admission to M.Sc. program based on exceptional performance
+          - "Supervisor: Assoc.Prof. Navidreza Abjadi"
 
     Languages:
       - name: Persian (Farsi)
         summary: Native speaker
-
       - name: English
-        summary: Fluent (TOEFL certified)
-
+        summary: Fluent (IELTS 6.5)
       - name: Norwegian
         summary: Basic (actively learning)
 
     Interests:
       - name: Control Systems and Automation
-        keywords: "Nonlinear Control, Optimal Control, Machine Learning in Control"
-
+        keywords: Nonlinear Control, Optimal Control, Machine Learning
       - name: Sustainable Energy
-        keywords: "Building Energy Management, Renewable Energy, Smart Grids"
-
+        keywords: Building Energy Management, Renewable Energy, Smart Grids
       - name: Research and Academia
-        keywords: "Publications, Peer Review, Knowledge Sharing"
-
-    Certificates:
-      - name: IEEE Young Professionals Membership
-        date: 2026-01-01
-        issuer: IEEE
-        icon: fa-solid fa-certificate
-
-      - name: EECI 2026 International Graduate School on Control
-        date: 2026-05-01
-        issuer: Politecnico di Torino
-        icon: fa-solid fa-certificate
-
-      - name: Professional Engineering License
-        date: 2022-01-01
-        issuer: Iranian Ministry of Roads and Urban Development
-        icon: fa-solid fa-certificate
+        keywords: Publications, Peer Review, Knowledge Sharing
 
     References:
       - name: Dr. Marzieh Kamali
         icon: fa-solid fa-user
-        reference: Associate Professor, Isfahan University of Technology. Master's thesis supervisor. Expertise in control systems and nonlinear dynamics.
-
-      - name: Dr. [Your NTNU Advisor Name]
+        reference: Associate Professor, Isfahan University of Technology. Master's thesis supervisor.
+      - name: Dr. Hamed Jalaly Bidgoly
         icon: fa-solid fa-user
-        reference: Research advisor at NTNU. Specialization in sustainable energy and building control systems.
+        reference: Assistant Professor, Isfahan University of Technology. Research collaborator.

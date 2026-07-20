@@ -3,6 +3,7 @@
   Handles both:
   - RenderCV: institution, area, studyType (or degree), start_date, end_date, location, courses, highlights
   - JSONResume: institution, area, studyType, startDate, endDate, location, courses, highlights
+  - Logo support for university logos
 {% endcomment %}
 
 <ul class="card-text font-weight-light list-group list-group-flush">
@@ -48,6 +49,13 @@
                   </td>
                 </tr>
               {% endif %}
+              {% if entry.logo %}
+                <tr>
+                  <td style="padding-top: 10px;">
+                    <img src="{{ entry.logo | relative_url }}" alt="University logo" style="max-height: {{ entry.logo_size | default: '50px' }}; max-width: {{ entry.logo_size | default: '50px' }}; object-fit: contain;">
+                  </td>
+                </tr>
+              {% endif %}
             </tbody>
           </table>
         </div>
@@ -81,7 +89,7 @@
               {% endfor %}
               {% for item in entry.highlights %}
                 <li>
-                  <span class="item">{{ item | markdownify | remove: '<p>' | remove: '</p>' }}</span>
+                  <span class="item">{{ item }}</span>
                 </li>
               {% endfor %}
             </ul>

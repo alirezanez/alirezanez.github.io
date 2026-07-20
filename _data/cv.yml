@@ -17,7 +17,7 @@ cv:
   address:
     street: Kolbjorn Hejes vei
     city: Trondheim
-    region: Troendelag
+    region: Trøndelag
     postalCode: ""
     countryCode: NO
 
@@ -26,7 +26,7 @@ cv:
       - institution: Norwegian University of Science and Technology (NTNU)
         location: Trondheim, Norway
         url: https://www.ntnu.edu/
-        area: Control Engineering and Sustainable Energy Systems
+        area: Energy and Process Engineering
         studyType: Doctor of Philosophy
         start_date: 2026-01
         end_date: ""
@@ -34,26 +34,27 @@ cv:
         logo_size: "100px"
         highlights:
           - Research on data-driven and optimal control methodologies for building energy systems
-          - Focus on sustainable energy management and occupant comfort optimization
+          - Focus on sustainable energy management and occupant comfort
+          - "Supervisor: [Prof. Laurent Georges](mailto:laurent.georges@ntnu.no)"
 
       - institution: Isfahan University of Technology (IUT)
         location: Isfahan, Iran
         url: https://en.iut.ac.ir/
-        area: Electrical Engineering - Control Engineering
+        area: Electrical Engineering, Control Engineering
         studyType: Master of Science
         start_date: 2019-09
         end_date: 2022-02
         logo: /assets/img/universities/iut_logo.svg
         logo_size: "50px"
         highlights:
-          - Thesis on advanced control strategies for nonlinear systems
+          - Thesis on cooperative coverage path planning using reinforcement learning
           - Specialized in control systems design and experimental validation
-          - "Supervisor: Assoc.Prof. Marzieh Kamali"
+          - "Supervisor: [Assoc.Prof. Marzieh Kamali](mailto:m.kamali@iut.ac.ir)"
 
       - institution: Shahrekord University (SKU)
         location: Shahrekord, Iran
         url: https://www.sku.ac.ir/
-        area: Electrical Power Engineering
+        area: Electrical Engineering, Power Systems
         studyType: Bachelor of Science
         start_date: 2015-09
         end_date: 2019-07
@@ -63,15 +64,15 @@ cv:
           - Thesis on design and construction of single-phase inverter for photovoltaic system
           - Highest academic standing in program
           - Direct admission to M.Sc. program based on exceptional performance
-          - "Supervisor: Assoc.Prof. Navidreza Abjadi"
+          - "Supervisor: [Assoc.Prof. Navidreza Abjadi](mailto:abjadi.navidreza@sku.ac.ir)"
 
     Languages:
       - name: Persian (Farsi)
         summary: Native speaker
       - name: English
-        summary: Fluent (IELTS 6.5)
+        summary: Fluent
       - name: Norwegian
-        summary: Basic (actively learning)
+        summary: Intermediate
 
     Interests:
       - name: Control Systems and Automation
@@ -82,9 +83,32 @@ cv:
         keywords: Publications, Peer Review, Knowledge Sharing
 
     References:
+      - name: Dr. Laurent Georges
+        icon: fa-solid fa-user
+        role: PhD Supervisor
+        affiliation: Professor, Norwegian University of Science and Technology (NTNU), Norway
+        profile: "[Google Scholar](https://scholar.google.com/citations?user=h-XJ1cAAAAAJ&hl=en)"
+
       - name: Dr. Marzieh Kamali
         icon: fa-solid fa-user
-        reference: Associate Professor, Isfahan University of Technology. Master's thesis supervisor.
-      - name: Dr. Hamed Jalaly Bidgoly
+        role: Master's Thesis Supervisor
+        affiliation: Associate Professor, Isfahan University of Technology, Iran
+        profile: "[Google Scholar](https://scholar.google.com/citations?user=WpbBEx8AAAAJ&hl=en)"
+
+      - name: Dr. Amirmehdi Yazdani
         icon: fa-solid fa-user
-        reference: Assistant Professor, Isfahan University of Technology. Research collaborator.
+        role: Research Collaborator
+        affiliation: Senior Lecturer, Murdoch University, Australia
+        profile: "[Google Scholar](https://scholar.google.com/citations?user=SWgn4u4AAAAJ&hl=en)"
+
+      - name: Dr. Hamed Ahabibi
+        icon: fa-solid fa-user
+        role: Research Collaborator
+        affiliation: Research Fellow, School of Engineering, RMIT University, Australia
+        profile: "[Google Scholar](https://scholar.google.com/citations?user=iPBCRrEAAAAJ&hl=en)"
+
+      - name: Nikolai Drigal
+        icon: fa-solid fa-user
+        role: Research Collaborator
+        affiliation: Research Professional, Norwegian University of Science and Technology (NTNU), Norway
+        profile: "[LinkedIn](https://www.linkedin.com/in/nikolai-drigal/)"

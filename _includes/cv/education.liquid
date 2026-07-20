@@ -84,12 +84,12 @@
             <ul class="items">
               {% for item in entry.courses %}
                 <li>
-                  <span class="item">{{ item }}</span>
+                   <span class="item">{{ item | markdownify | remove: '<p>' | remove: '</p>' }}</span>
                 </li>
               {% endfor %}
               {% for item in entry.highlights %}
                 <li>
-                  <span class="item">{{ item }}</span>
+                  <span class="item">{{ item | markdownify | remove: '<p>' | remove: '</p>' }}</span>
                 </li>
               {% endfor %}
             </ul>

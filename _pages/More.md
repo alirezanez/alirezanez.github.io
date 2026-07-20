@@ -7,8 +7,8 @@ dropdown: true
 search_exclude: true
 children:
   - title: Other Activities
-    permalink: /Other Activities/
+    permalink: /Other_Activities/
   - title: divider
-  - title: Landscapes
-    permalink: /Landscapes/
+  - title: Photography
+    permalink: /Photography/
 ---

@@ -17,10 +17,10 @@ Beautiful natural scenery from my travels around the world.
 <div class="row">
     <div class="col-sm-6 col-md-4 mb-4">
         <div class="card h-100">
-            <img src="{{ site.baseurl }}/assets/img/photography/nidaros-trondheim.jpg" class="card-img-top" alt="Nidaros, Trondheim">
+            <img src="{{ site.baseurl }}/assets/img/photography/nidaros-trondheim.jpg" class="card-img-top" alt="Nidelva, Trondheim">
             <div class="card-body">
-                <h5 class="card-title">Nidaros, Trondheim</h5>
-                <p class="card-text">The iconic Nidaros Cathedral and scenic bridge in Trondheim, Norway.</p>
+                <h5 class="card-title"><span class="fi fi-no"> </span> Nidelva, Trondheim</h5>
+                <p class="card-text">A golden sunset over the Nidelva.</p>
             </div>
         </div>
     </div>

@@ -26,10 +26,10 @@ Beautiful natural scenery from my travels around the world.
     </div>
     <div class="col-sm-6 col-md-4 mb-4">
         <div class="card h-100">
-            <img src="{{ site.baseurl }}/assets/img/photography/landscape-2.jpg" class="card-img-top" alt="Italian Landscape">
+            <img src="{{ site.baseurl }}/assets/img/photography/landscape-2.png" class="card-img-top" alt="Italian Landscape">
             <div class="card-body">
-                <h5 class="card-title">Landscape from Italy</h5>
-                <p class="card-text">Beautiful Italian countryside and scenic views from travels in Europe.</p>
+                <h5 class="card-title"><span class="fi fi-no"> </span> Nordlys, Trondheim</h5>
+                <p class="card-text">The northern lights dance over snow-covered rooftops on a clear winter night, with the moon shining alongside. </p>
             </div>
         </div>
     </div>
@@ -37,8 +37,8 @@ Beautiful natural scenery from my travels around the world.
         <div class="card h-100">
             <img src="{{ site.baseurl }}/assets/img/photography/landscape-3.jpg" class="card-img-top" alt="Norwegian Landscape">
             <div class="card-body">
-                <h5 class="card-title">Norwegian Landscape</h5>
-                <p class="card-text">Natural beauty of Norway's mountains and valleys.</p>
+                <h5 class="card-title"><span class="fi fi-no"> </span> Nidelva, Trondheim</h5>
+                <p class="card-text">A calm summer day on the Nidelva, with fluffy clouds drifting over the riverside houses and hills of Trondheim.</p>
             </div>
         </div>
     </div>
@@ -64,8 +64,17 @@ Photography documenting significant historical and cultural sites.
         <div class="card h-100">
             <img src="{{ site.baseurl }}/assets/img/photography/historical-place-2.jpg" class="card-img-top" alt="Historical Site">
             <div class="card-body">
-                <h5 class="card-title">Historical Site in Europe</h5>
-                <p class="card-text">Architectural heritage and historical significance from travels across Europe.</p>
+                <h5 class="card-title"><span class="fi fi-no"></span> Nidaros Cathedral, Trondheim</h5>
+                <p class="card-text">The Gothic façade of Nidaros Cathedral, Norway's national sanctuary and the historic coronation church of Norwegian kings.</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-sm-6 col-md-4 mb-4">
+        <div class="card h-100">
+            <img src="{{ site.baseurl }}/assets/img/photography/historical-place-3.png" class="card-img-top" alt="Historical Site">
+            <div class="card-body">
+                <h5 class="card-title"><span class="fi fi-it"></span> Piazza San Carlo, Turin</h5>
+                <p class="card-text">The equestrian statue of Emanuele Filiberto, Duke of Savoy, known locally as "Caval 'd Brôns," standing in the heart of Turin's baroque Piazza San Carlo.</p>
             </div>
         </div>
     </div>
@@ -80,46 +89,46 @@ Close-up photography of flowers and botanical subjects.
 <div class="row">
     <div class="col-sm-6 col-md-4 mb-4">
         <div class="card h-100">
-            <img src="{{ site.baseurl }}/assets/img/photography/flowers-1.jpg" class="card-img-top" alt="Wildflowers">
+            <img src="{{ site.baseurl }}/assets/img/photography/flowers-1.jpg" class="card-img-top" alt="Orange Flower">
             <div class="card-body">
-                <h5 class="card-title">Wildflowers in Bloom</h5>
-                <p class="card-text">Colorful wildflowers captured in their natural habitat.</p>
+                <h5 class="card-title"><span class="fi fi-no"></span> Orange Flower</h5>
+                <p class="card-text">A vibrant orange flower in full bloom, its layered petals catching the light.</p>
             </div>
         </div>
     </div>
     <div class="col-sm-6 col-md-4 mb-4">
         <div class="card h-100">
-            <img src="{{ site.baseurl }}/assets/img/photography/flowers-2.jpg" class="card-img-top" alt="Garden Flowers">
+            <img src="{{ site.baseurl }}/assets/img/photography/flowers-2.jpg" class="card-img-top" alt="Purple and White Flowers">
             <div class="card-body">
-                <h5 class="card-title">Garden Flowers</h5>
-                <p class="card-text">Beautiful botanical close-ups from gardens and natural areas.</p>
+                <h5 class="card-title"><span class="fi fi-no"></span> Soft Clusters</h5>
+                <p class="card-text">Delicate purple and white blossoms clustered together against green foliage.</p>
             </div>
         </div>
     </div>
     <div class="col-sm-6 col-md-4 mb-4">
         <div class="card h-100">
-            <img src="{{ site.baseurl }}/assets/img/photography/flowers-3.jpg" class="card-img-top" alt="Nature Detail">
+            <img src="{{ site.baseurl }}/assets/img/photography/flowers-3.jpg" class="card-img-top" alt="White Flowers">
             <div class="card-body">
-                <h5 class="card-title">Nature's Details</h5>
-                <p class="card-text">Macro photography of flowers and botanical details.</p>
+                <h5 class="card-title"><span class="fi fi-no"></span> Scattered White</h5>
+                <p class="card-text">Small white flower clusters scattered across a bed of green leaves.</p>
             </div>
         </div>
     </div>
     <div class="col-sm-6 col-md-4 mb-4">
         <div class="card h-100">
-            <img src="{{ site.baseurl }}/assets/img/photography/flowers-4.jpg" class="card-img-top" alt="Floral Beauty">
+            <img src="{{ site.baseurl }}/assets/img/photography/flowers-4.jpg" class="card-img-top" alt="Yellow Flowers">
             <div class="card-body">
-                <h5 class="card-title">Floral Beauty</h5>
-                <p class="card-text">Close-up photography showcasing the beauty of flowers.</p>
+                <h5 class="card-title"><span class="fi fi-no"></span> Golden Cascade</h5>
+                <p class="card-text">Trailing golden-yellow blossoms hanging among green branches.</p>
             </div>
         </div>
     </div>
     <div class="col-sm-6 col-md-4 mb-4">
         <div class="card h-100">
-            <img src="{{ site.baseurl }}/assets/img/photography/flowers-5.jpg" class="card-img-top" alt="Botanical Study">
+            <img src="{{ site.baseurl }}/assets/img/photography/flowers-5.jpg" class="card-img-top" alt="Purple Flowers">
             <div class="card-body">
-                <h5 class="card-title">Botanical Study</h5>
-                <p class="card-text">Detailed photography of flowers and botanical subjects.</p>
+                <h5 class="card-title"><span class="fi fi-no"></span> Deep Purple</h5>
+                <p class="card-text">A close-up cluster of rich purple blossoms with a soft, textured glow.</p>
             </div>
         </div>
     </div>

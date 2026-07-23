@@ -170,7 +170,8 @@ ul.timeline li {
   position: relative;
   min-height: 2.2rem;
   color: var(--global-text-color);
-  list-style-position: inside;
+  list-style: none;
+  padding-left: 1.25rem;
 }
 
 span.badge-toc {

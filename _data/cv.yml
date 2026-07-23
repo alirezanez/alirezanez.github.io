@@ -21,7 +21,7 @@ cv:
     postalCode: ""
     countryCode: NO
 
-  cv_pdf: /assets/pdf/CV_Alireza_Nezamzadeh.pdf
+  cv_pdf: /assets/pdf/CV_Alireza_Nezamzadeh_English.pdf
 
   sections:
     Education:
@@ -47,7 +47,7 @@ cv:
         start_date: 2019-09
         end_date: 2022-02
         logo: /assets/img/universities/iut_logo.svg
-        logo_size: "50px"
+        logo_size: "60px"
         highlights:
           - Thesis on cooperative coverage path planning using reinforcement learning
           - Specialized in control systems design and experimental validation
@@ -61,7 +61,7 @@ cv:
         start_date: 2015-09
         end_date: 2019-07
         logo: /assets/img/universities/sku_logo.png
-        logo_size: "100px"
+        logo_size: "120px"
         highlights:
           - Thesis on design and construction of single-phase inverter for photovoltaic system
           - Highest academic standing in program

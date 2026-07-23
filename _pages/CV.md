@@ -4,7 +4,7 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 7
-cv_pdf: /assets/pdf/CV_Alireza_English.pdf
+cv_pdf: /assets/pdf/CV_Alireza_Nezamzadeh_English.pdf
 description: Curriculum Vitae - Alireza Nezamzadeh
 toc:
   sidebar: left

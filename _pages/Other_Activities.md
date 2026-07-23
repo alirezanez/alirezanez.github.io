@@ -2,23 +2,34 @@
 layout: page
 title: Other Activities
 permalink: /Other_Activities/
+description: A look at my interests outside of research
 search_exclude: true
 ---
 
+Books, sports, and food that keep me busy outside of research.
 
-### Reading and Learning
-- Academic papers and technical books
-- Exploring new research methodologies
+---
 
-### Hobbies & Interests
-- Film and cinema
-- Social gatherings and networking
-- Photography
+### 📚 Reading and Learning
+- 📖 Books, stories, and life-related topics
+- 🎙️ Podcasts
 
-### Food & Cuisine
+### ⚽ Hobbies & Interests
+- 🎸 Playing guitar
+- 🏓 Ping pong
+- 🏃 Running
+- 🏋️ Gym
+- 🥾 Hiking
+- ⛷️ Skiing
+- ⚽ Football
+- 🎧 Listening to music
+- 🏊 Swimming
+- 🎣 Fishing
+
+### 🍽️ Food & Cuisine
 - Cooking traditional Persian dishes
-- Exploring local cuisines in Norway
-- Food photography
+- <span class="fi fi-no"></span> Exploring local cuisines in Norway
+- 📸 Food photography
 
 ---
 

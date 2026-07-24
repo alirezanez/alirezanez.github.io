@@ -105,22 +105,22 @@ ninja.data = [{
               window.location.href = "/experiences/exp5_student_internship_mobarakeh/";
             },},{id: "experiences-peer-reviewer",
           title: 'Peer Reviewer',
-          description: "2026 - Present · Independent peer review for IEEE Transactions on Industrial Electronics",
+          description: "2026 - Present · Independent peer review for IEEE Transactions on Industrial Electronics.",
           section: "Experiences",handler: () => {
               window.location.href = "/experiences/vol1_peer_reviewer/";
             },},{id: "experiences-team-member-indoor-air-quality-project",
           title: 'Team Member - Indoor Air Quality Project',
-          description: "Jun 2026 - Jul 2026 · Multidisciplinary team evaluating air quality in clinical settings",
+          description: "Jun 2026 - Jul 2026 · Multidisciplinary team evaluating air quality in clinical settings.",
           section: "Experiences",handler: () => {
               window.location.href = "/experiences/vol2_hospital_team/";
             },},{id: "experiences-member-electrical-engineering-student-scientific-association",
           title: 'Member - Electrical Engineering Student Scientific Association',
-          description: "Sep 2018 - Jul 2019 · Active member of scientific association at Shahrekord University",
+          description: "Sep 2018 - Jul 2019 · Active member of scientific association at Shahrekord University.",
           section: "Experiences",handler: () => {
               window.location.href = "/experiences/vol3_electrical_society/";
             },},{id: "experiences-editorial-board-member",
           title: 'Editorial Board Member',
-          description: "Dec 2018 - Apr 2019 · Served on the editorial board of Avesta Scientific Journal",
+          description: "Dec 2018 - Apr 2019 · Served on the editorial board of Avesta Scientific Journal.",
           section: "Experiences",handler: () => {
               window.location.href = "/experiences/vol4_editorial_board/";
             },},{id: "experiences-volunteer-team-lead",

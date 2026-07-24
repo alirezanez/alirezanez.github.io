@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Team Member - Indoor Air Quality Project
-description: Jun 2026 - Jul 2026 · Multidisciplinary team evaluating air quality in clinical settings
+description: Jun 2026 - Jul 2026 · Multidisciplinary team evaluating air quality in clinical settings.
 organization: St. Olavs Hospital, Trondheim University Hospital
 importance: 2
 category: Volunteer

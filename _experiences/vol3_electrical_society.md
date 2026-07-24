@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Member - Electrical Engineering Student Scientific Association
-description: Sep 2018 - Jul 2019 · Active member of scientific association at Shahrekord University
+description: Sep 2018 - Jul 2019 · Active member of scientific association at Shahrekord University.
 organization: Electrical Engineering Student Scientific Association, Shahrekord University
 importance: 4
 category: Volunteer

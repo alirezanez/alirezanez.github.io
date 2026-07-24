@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Editorial Board Member
-description: Dec 2018 - Apr 2019 · Served on the editorial board of Avesta Scientific Journal
+description: Dec 2018 - Apr 2019 · Served on the editorial board of Avesta Scientific Journal.
 organization: Avesta Scientific Journal, Shahrekord University
 importance: 5
 category: Volunteer

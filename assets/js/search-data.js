@@ -125,7 +125,7 @@ ninja.data = [{
               window.location.href = "/experiences/vol4_editorial_board/";
             },},{id: "experiences-volunteer-team-lead",
           title: 'Volunteer Team Lead',
-          description: "Aug 2022 - Oct 2023 · Humanitarian and relief activities with Iranian Red Crescent Society",
+          description: "Aug 2022 - Oct 2023 · Humanitarian and relief activities with Iranian Red Crescent Society.",
           section: "Experiences",handler: () => {
               window.location.href = "/experiences/vol5_red_crescent/";
             },},];

@@ -60,22 +60,22 @@ ninja.data = [{
               },
             },{id: "awards-ranked-3rd-m-sc-student-in-control-engineering",
           title: 'Ranked 3rd M.Sc. Student in Control Engineering',
-          description: "Academic excellence in Control Engineering, Isfahan University of Technology",
+          description: "Academic excellence in Control Engineering, Isfahan University of Technology.",
           section: "Awards",handler: () => {
               window.location.href = "/awards/award1_msc_ranking/";
             },},{id: "awards-ranked-1st-b-sc-student-in-electrical-power-engineering",
           title: 'Ranked 1st B.Sc. Student in Electrical Power Engineering',
-          description: "Highest academic standing in Electrical Power Engineering program",
+          description: "Highest academic standing in Electrical Power Engineering program.",
           section: "Awards",handler: () => {
               window.location.href = "/awards/award2_bsc_ranking/";
             },},{id: "awards-best-paper-award-30th-electrical-safety-conference",
           title: 'Best Paper Award – 30th Electrical Safety Conference',
-          description: "Recognition for research on human factors in electrical safety",
+          description: "Recognition for research on human factors in electrical safety.",
           section: "Awards",handler: () => {
               window.location.href = "/awards/award3_best_paper/";
             },},{id: "awards-direct-admission-to-m-sc-program-in-control-engineering",
           title: 'Direct Admission to M.Sc. Program in Control Engineering',
-          description: "Exceptional undergraduate academic performance recognition",
+          description: "Exceptional undergraduate academic performance recognition.",
           section: "Awards",handler: () => {
               window.location.href = "/awards/award4_direct_admission/";
             },},{id: "experiences-teaching-assistant",

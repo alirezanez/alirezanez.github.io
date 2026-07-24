@@ -80,27 +80,27 @@ ninja.data = [{
               window.location.href = "/awards/award4_direct_admission/";
             },},{id: "experiences-teaching-assistant",
           title: 'Teaching Assistant',
-          description: "2020 - 2022 · Taught control systems, adaptive control, and neural networks",
+          description: "2020 - 2022 · Taught control systems, adaptive control, and neural networks.",
           section: "Experiences",handler: () => {
               window.location.href = "/experiences/exp1_teaching_assistant/";
             },},{id: "experiences-research-assistant-nonlinear-control-lab",
           title: 'Research Assistant - Nonlinear Control Lab',
-          description: "Nov 2023 - Dec 2025 · Piezoelectric actuators, inverted pendulum, and MIMO systems control",
+          description: "Nov 2023 - Dec 2025 · Piezoelectric actuators, inverted pendulum, and MIMO systems control.",
           section: "Experiences",handler: () => {
               window.location.href = "/experiences/exp2_research_assistant_isfahan/";
             },},{id: "experiences-research-assistant",
           title: 'Research Assistant',
-          description: "Jan 2026 - Present · Sustainable energy research and control strategy design at NTNU",
+          description: "Jan 2026 - Present · Sustainable energy research and control strategy design at NTNU.",
           section: "Experiences",handler: () => {
               window.location.href = "/experiences/exp3_research_assistant_ntnu/";
             },},{id: "experiences-assistant-manager",
           title: 'Assistant Manager',
-          description: "Aug 2022 - Oct 2023 · Power transmission safety and HSE management at EREC",
+          description: "Aug 2022 - Oct 2023 · Power transmission safety and HSE management at EREC.",
           section: "Experiences",handler: () => {
               window.location.href = "/experiences/exp4_assistant_manager_erec/";
             },},{id: "experiences-student-internship",
           title: 'Student Internship',
-          description: "Jul 2018 - Aug 2018 · Industrial automation and PLC programming at Mobarakeh Steel Company",
+          description: "Jul 2018 - Aug 2018 · Industrial automation and PLC programming at Mobarakeh Steel Company.",
           section: "Experiences",handler: () => {
               window.location.href = "/experiences/exp5_student_internship_mobarakeh/";
             },},{id: "experiences-peer-reviewer",

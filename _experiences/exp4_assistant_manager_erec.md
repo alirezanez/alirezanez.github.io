@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Assistant Manager
-description: Aug 2022 - Oct 2023 · Power transmission safety and HSE management at EREC
+description: Aug 2022 - Oct 2023 · Power transmission safety and HSE management at EREC.
 organization: Esfahan Regional Electric Company (EREC)
 importance: 3
 category: Work
@@ -32,8 +32,6 @@ Assistant Manager (Alternative Civilian Service) at Esfahan Regional Electric Co
 
 **Notable:** Co-authored research presented at Isfahan Regional Electricity Safety Conference (Oct 2023) demonstrating significant insights into workplace safety and human factors in electrical systems.
 
-<div style="display: flex; gap: 20px; justify-content: center;">
-  <div style="border: 3px solid #333; padding: 8px; background: #f9f9f9;">
-    <img src="{{ site.baseurl }}/assets/img/experiences/exp4_assistant_manager_erec.jpg" alt="Assistant Manager EREC" style="max-width: 400px; height: auto; display: block;">
-  </div>
+<div style="text-align: center;">
+  <img src="{{ site.baseurl }}/assets/img/experiences/exp4_assistant_manager_erec.jpg" alt="Assistant Manager EREC" style="max-width: 400px; height: auto; border: 1px solid #ddd; padding: 8px;">
 </div>

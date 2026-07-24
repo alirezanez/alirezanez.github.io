@@ -28,8 +28,8 @@ Beautiful natural scenery from my travels around the world.
         <div class="card h-100">
             <img src="{{ site.baseurl }}/assets/img/photography/landscape-2.png" class="card-img-top" alt="Italian Landscape">
             <div class="card-body">
-                <h5 class="card-title"><span class="fi fi-no"> </span> Nordlys, Trondheim</h5>
-                <p class="card-text">The northern lights dance over snow-covered rooftops on a clear winter night, with the moon shining alongside. </p>
+                <h5 class="card-title"><span class="fi fi-no"> </span> Trondheim</h5>
+                <p class="card-text">The northern lights (Nordlys) dance over snow-covered rooftops on a clear winter night, with the moon shining alongside. </p>
             </div>
         </div>
     </div>

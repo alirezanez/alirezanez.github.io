@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Student Internship
-description: Jul 2018 - Aug 2018 · Industrial automation and PLC programming at Mobarakeh Steel Company
+description: Jul 2018 - Aug 2018 · Industrial automation and PLC programming at Mobarakeh Steel Company.
 organization: Esfahan's Mobarakeh Steel Company
 importance: 5
 category: Work
@@ -35,8 +35,6 @@ Evaluated with an excellent score of **19/20** - demonstrating proficiency and d
 
 **Notable:** Gained practical hands-on experience in industrial automation and process control in a major manufacturing environment, working directly with experienced engineers and technicians on active production systems.
 
-<div style="display: flex; gap: 20px; justify-content: center;">
-  <div style="border: 3px solid #333; padding: 8px; background: #f9f9f9;">
-    <img src="{{ site.baseurl }}/assets/img/experiences/exp5_internship_mobarakeh.jpg" alt="Student Internship Mobarakeh" style="max-width: 400px; height: auto; display: block;">
-  </div>
+<div style="text-align: center;">
+  <img src="{{ site.baseurl }}/assets/img/experiences/exp5_internship_mobarakeh.jpg" alt="Student Internship Mobarakeh" style="max-width: 400px; height: auto; border: 1px solid #ddd; padding: 8px;">
 </div>

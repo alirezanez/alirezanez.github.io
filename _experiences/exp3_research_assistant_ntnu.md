@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research Assistant
-description: Jan 2026 - Present · Sustainable energy research and control strategy design at NTNU
+description: Jan 2026 - Present · Sustainable energy research and control strategy design at NTNU.
 organization: Norwegian University of Science and Technology (NTNU)
 importance: 1
 category: Work

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research Assistant - Nonlinear Control Lab
-description: Nov 2023 - Dec 2025 · Piezoelectric actuators, inverted pendulum, and MIMO systems control
+description: Nov 2023 - Dec 2025 · Piezoelectric actuators, inverted pendulum, and MIMO systems control.
 organization: Isfahan University of Technology
 importance: 2
 category: Work
@@ -32,8 +32,6 @@ Research Assistant at the Nonlinear Control Lab, Department of Electrical and Co
 
 **Publications:** Articles published during this period on control systems and experimental validation.
 
-<div style="display: flex; gap: 20px; justify-content: center;">
-  <div style="border: 3px solid #333; padding: 8px; background: #f9f9f9;">
-    <img src="{{ site.baseurl }}/assets/img/experiences/exp1_teaching_assistant_2.jpg" alt="Research Assistant Isfahan" style="max-width: 400px; height: auto; display: block;">
-  </div>
+<div style="text-align: center;">
+  <img src="{{ site.baseurl }}/assets/img/experiences/exp1_teaching_assistant_2.jpg" alt="Research Assistant Isfahan" style="max-width: 400px; height: auto; border: 1px solid #ddd; padding: 8px;">
 </div>

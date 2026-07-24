@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Volunteer Team Lead
-description: Aug 2022 - Oct 2023 · Humanitarian and relief activities with Iranian Red Crescent Society
+description: Aug 2022 - Oct 2023 · Humanitarian and relief activities with Iranian Red Crescent Society.
 organization: Iranian Red Crescent Society
 importance: 3
 category: Volunteer

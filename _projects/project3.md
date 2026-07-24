@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Power Transmission Safety & Human Biorhythm Analysis
-description: Research collaboration on power transmission network incidents and human-factor analysis in protection systems
+description: Research collaboration on power transmission network incidents and human-factor analysis in protection systems.
 importance: 3
 category: Projects
 ---
@@ -26,4 +26,6 @@ Collaborated as a research team member on a comprehensive study analyzing power 
 
 **Organization:** Nirogahian (Power Generation and Distribution)
 
-<img src="{{ site.baseurl }}/assets/img/projects/project3_power_transmission.png" alt="Power Transmission Safety Analysis" style="max-width: 500px; height: auto;">
+<div style="text-align: center;">
+  <img src="{{ site.baseurl }}/assets/img/projects/project3_power_transmission.png" alt="Power Transmission Safety Analysis" style="max-width: 500px; height: auto; border: 1px solid #ddd; padding: 8px;">
+</div>

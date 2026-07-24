@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Professional Engineering License
-description: Professional Engineering License for Building Electrical Installation Design (Grade 3), issued by Iranian Ministry of Roads and Urban Development
+description: Professional Engineering License for Building Electrical Installation Design (Grade 3), issued by Iranian Ministry of Roads and Urban Development.
 importance: 3
 category: Certificates
 ---

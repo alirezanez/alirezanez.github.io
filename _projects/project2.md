@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research Assistant, Isfahan University of Technology
-description: Experimental research on advanced control systems including piezoelectric actuators, inverted pendulum, and MIMO systems
+description: Experimental research on advanced control systems including piezoelectric actuators (PEA), inverted pendulum, and twin rotor MIMO (TRMS) systems.
 importance: 2
 category: Projects
 ---
@@ -28,12 +28,18 @@ Experimental research targeting ultra-precise positioning applications. Operated
 - Achieved sub-micron level positioning accuracy
 - Developed real-time control system for micro/nano-manipulation
 
-<img src="{{ site.baseurl }}/assets/img/projects/piezoelectric_actuator.jpg" alt="Piezoelectric Actuator Control" style="max-width: 450px; height: auto; margin: 15px 0;">
+**Publication:**
+- [Robust Control of Affine Nonlinear Systems Using an Energy-Efficient Gray-Box Framework: A Practical Validation](https://ieeexplore.ieee.org/document/11527195)
+
+
+<div style="text-align: center;">
+  <img src="{{ site.baseurl }}/assets/img/projects/piezoelectric_actuator.jpg" alt="Piezoelectric Actuator Control" style="max-width: 450px; height: auto; border: 1px solid #ddd; padding: 8px;">
+</div>
 
 ---
 
 ## Project 2: Digital Inverted Pendulum System, Controller Validation
-**Duration:** Jan 2024 – Dec 2024
+**Duration:** Jul 2024 – Dec 2024
 
 Designed and conducted hands-on experiments on a digital inverted pendulum platform to validate controller performance in angle and angular velocity tracking through collaborative research at Isfahan University of Technology.
 
@@ -44,7 +50,10 @@ Designed and conducted hands-on experiments on a digital inverted pendulum platf
 - Implemented angle and angular velocity tracking algorithms
 - Conducted comprehensive experimental analysis
 
-<img src="{{ site.baseurl }}/assets/img/projects/inverted_pendulum.jpg" alt="Inverted Pendulum System" style="max-width: 450px; height: auto; margin: 15px 0;">
+<div style="text-align: center;">
+  <img src="{{ site.baseurl }}/assets/img/projects/inverted_pendulum.jpg" alt="Inverted Pendulum System" style="max-width: 450px; height: auto; border: 1px solid #ddd; padding: 8px;">
+</div>
+
 
 ---
 
@@ -60,7 +69,13 @@ Experimental investigation of the Twin Rotor Multiple-Input Multiple-Output (MIM
 - Designed multivariable control strategies
 - Validated controller performance under complex coupled dynamics
 
-<img src="{{ site.baseurl }}/assets/img/projects/twin_rotor_mimo.jpg" alt="Twin Rotor MIMO System" style="max-width: 450px; height: auto; margin: 15px 0;">
+**Publication:**
+- [Sequential Type-2 Fuzzy Wavelet for Robust Online Control Applications](https://ieeexplore.ieee.org/abstract/document/11373369)
+
+
+<div style="text-align: center;">
+  <img src="{{ site.baseurl }}/assets/img/projects/twin_rotor_mimo.jpg" alt="Twin Rotor MIMO System" style="max-width: 450px; height: auto; border: 1px solid #ddd; padding: 8px;">
+</div>
 
 ---
 

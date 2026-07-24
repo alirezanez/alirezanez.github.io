@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Fault Detection & Fault-Tolerant Control of Permanent Magnet Linear Motors
-description: Remote research collaboration with Murdoch University on PMLM reliability under uncertainties
+description: Remote research collaboration with Murdoch University on PMLM reliability under actuator fault and uncertainties.
 importance: 1
 category: Projects
 ---
